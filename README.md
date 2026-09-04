@@ -4,7 +4,6 @@
 <p align="center">
   🧠 Exploring LLMs, RAG, and multi-agent systems<br>
   🌱 Always open to collaborating on applied ML / GenAI projects<br>
-  📫 <a href="mailto:mainak1331sen@gmail.com">mainak1331sen@gmail.com</a>
 </p>
 
 ---
@@ -51,7 +50,7 @@ An AI-powered study tool: upload PDF notes, auto-generate MCQ/short-answer/essay
 **Judicial Workflow & Legal Document Classification** — *High Court of Calcutta*
 RBAC workflow system for 1,000+ records + an NLP pipeline classifying 1,200+ legal PDFs at ~92% accuracy in under 20 minutes.
 
-> CareerOS and the judicial-workflow project aren't public repos yet — link them here once pushed.
+> CareerOS and the judicial-workflow project aren't public repos yet.
 
 ---
 
