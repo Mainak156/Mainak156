@@ -4,7 +4,7 @@
 <p align="center">
   🧠 Exploring LLMs, RAG, and multi-agent systems<br>
   🌱 Always open to collaborating on applied ML / GenAI projects<br>
-  📫 <a href="mailto:mainak1331sen@gmail.com">mainak1331sen@gmail.com</a> · <a href="https://www.linkedin.com/in/techmainak001/">LinkedIn</a>
+  📫 <a href="mailto:mainak1331sen@gmail.com">mainak1331sen@gmail.com</a>
 </p>
 
 ---
@@ -38,16 +38,20 @@
 
 ### 📌 Featured Work
 
-**[CareerOS](https://github.com/Mainak156/careeros)** — Multi-agent AI platform for placement automation
-6+ agents, 10+ modules, LangGraph + RAG + NVIDIA LLMs to automate document processing and deliver personalized career recommendations.
+**[SmartRx – Digital Prescription Platform](https://github.com/Mainak156/Digital-Prescription)**
+A web app for digitally creating and managing prescriptions, with a Python backend and a React/Tailwind frontend. [Live demo](https://smartrx-ai.vercel.app/)
 
-**[AI Exam Preparation & Auto-Evaluation System](https://github.com/Mainak156/ai-exam-eval)** — RAG-based assessment engine
-Chroma + LangChain (Llama-3.3-70B), 6+ question types, ~85–90% answer relevance, cut manual evaluation effort by 60%+.
+**[AI ExamPrep Assistant](https://github.com/Mainak156/ExamPrep-Assistant)**
+An AI-powered study tool: upload PDF notes, auto-generate MCQ/short-answer/essay questions via RAG (Chroma + LangChain + Groq's Llama-3.3-70B), take a test, and get AI-evaluated feedback.
+`Python` `Streamlit` `LangChain` `Chroma` `Groq API`
+
+**CareerOS** — Multi-agent AI platform for placement automation *(in progress)*
+6+ agents, 10+ modules, LangGraph + RAG + NVIDIA LLMs to automate document processing and deliver personalized career recommendations.
 
 **Judicial Workflow & Legal Document Classification** — *High Court of Calcutta*
 RBAC workflow system for 1,000+ records + an NLP pipeline classifying 1,200+ legal PDFs at ~92% accuracy in under 20 minutes.
 
-> Repo links above are placeholders — swap in the real ones once each project is pushed and public.
+> CareerOS and the judicial-workflow project aren't public repos yet — link them here once pushed.
 
 ---
 
@@ -73,11 +77,31 @@ RBAC workflow system for 1,000+ records + an NLP pipeline classifying 1,200+ leg
 
 **Past Internships**
 - Research Intern, **Samsung PRISM** — built a guardrail framework benchmarking 6+ LLMs across 500+ agent runs
+- IT Intern, **High Court of Calcutta, Appellate Side** — one-month internship in the IT Department (Jun–Jul 2025), working with Laravel, PostgreSQL, Python, and Spring Boot
 - TANSAM–Siemens Industry 4.0 CoE — IoT data visualization & dashboarding
 - Python Programming Internship — CipherByte Technologies
 - Machine Learning Internship — Prodigy InfoTech
 
 </details>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/techmainak001/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/tech_mainak_01/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.duolingo.com/profile/MainakSen12" target="_blank">
+    <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white" />
+  </a>
+  <a href="mailto:mainak1331sen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
